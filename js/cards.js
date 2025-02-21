@@ -49,7 +49,11 @@ $(function () {
   // Function to generate the HTML structure for the selected items
   function generateItemsHTML(randomItem) {
     var firstList = '';
-    firstList += '<li>' + randomItem.item.title + ' (' + randomItem.item.category + ')</li>';
+
+    // Check if 'extra' exists in the category string
+    var categoryDisplay = (randomItem.item.category.indexOf('extra') !== -1) ? randomItem.item.type : randomItem.item.category;
+
+    firstList += '<li>' + randomItem.item.title + ' (' + categoryDisplay + ')</li>';
 
     return firstList;
   }
@@ -67,7 +71,7 @@ $(function () {
 
   // Event listener for the "show-next" button
   $("#show-next").on('click', function () {
-    var files = ["./data/celebrity.json", "./data/food.json", "./data/movie.json", "./data/place.json", "./data/song.json"];
+    var files = ["./data/celebrity.json", "./data/food.json", "./data/movie.json", "./data/extra.json", "./data/extra2.json", "./data/place.json", "./data/song.json"];
     var randomItems = [];
     var filesLoaded = 0;
 
@@ -85,19 +89,18 @@ $(function () {
         var randomItem = getRandomItem(remainingItems);
         randomItems.push(randomItem); // Collect random items
 
-        // Update the selected history and store it in localStorage
-        updateSelectedHistory(randomItem);
-
         filesLoaded++;
 
         // When all files have been loaded, generate and display the items
         if (filesLoaded === files.length) {
+          // Ensure only 5 items are selected
+          randomItems = randomItems.slice(0, 5);
+
           var output = randomItems.map(function (item) {
             return generateItemsHTML(item);
           }).join('');
           $('#card-list-1').html(output);
-          $('#card-number').html(remainingItems.length);
-          // $('#card-number').html(count++);
+          $('#card-number').html(count++);
 
           // Display the updated history
           // displayHistory();
