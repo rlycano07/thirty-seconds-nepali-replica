@@ -1,0 +1,887 @@
+[
+  {
+    "id": 2,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Gautama V. Vajracharya"
+  },
+  { "id": 3, "category": "celebrity", "discipline": "law", "title": "Surya Subedi" },
+  {
+    "id": 4,
+    "category": "celebrity",
+    "discipline": "cricket",
+    "title": "Basanta Regmi"
+  },
+  {
+    "id": 5,
+    "category": "celebrity",
+    "discipline": "cricket",
+    "title": "Bikash Dali"
+  },
+  {
+    "id": 6,
+    "category": "celebrity",
+    "discipline": "cricket",
+    "title": "Dhirendra Chand"
+  },
+  {
+    "id": 7,
+    "category": "celebrity",
+    "discipline": "cricket",
+    "title": "Gyanendra Malla"
+  },
+  {
+    "id": 8,
+    "category": "celebrity",
+    "discipline": "cricket",
+    "title": "Jitendra Mukhiya"
+  },
+  {
+    "id": 9,
+    "category": "celebrity",
+    "discipline": "cricket",
+    "title": "Kanishka Chaugai"
+  },
+  {
+    "id": 10,
+    "category": "celebrity",
+    "discipline": "cricket",
+    "title": "Mehboob Alam"
+  },
+  {
+    "id": 11,
+    "category": "celebrity",
+    "discipline": "cricket",
+    "title": "Manoj Baishya"
+  },
+  {
+    "id": 12,
+    "category": "celebrity",
+    "discipline": "cricket",
+    "title": "Manoj Katuwal"
+  },
+  {
+    "id": 13,
+    "category": "celebrity",
+    "discipline": "cricket",
+    "title": "Naresh Budhayer"
+  },
+  {
+    "id": 14,
+    "category": "celebrity",
+    "discipline": "cricket",
+    "title": "Paras Khadka"
+  },
+  {
+    "id": 15,
+    "category": "celebrity",
+    "discipline": "cricket",
+    "title": "Raj Pradhan"
+  },
+  {
+    "id": 16,
+    "category": "celebrity",
+    "discipline": "cricket",
+    "title": "Raju Basnyat"
+  },
+  {
+    "id": 17,
+    "category": "celebrity",
+    "discipline": "cricket",
+    "title": "Raju Khadka"
+  },
+  {
+    "id": 18,
+    "category": "celebrity",
+    "discipline": "cricket",
+    "title": "Rajesh Pulami"
+  },
+  {
+    "id": 19,
+    "category": "celebrity",
+    "discipline": "cricket",
+    "title": "Shakti Gauchan"
+  },
+  {
+    "id": 20,
+    "category": "celebrity",
+    "discipline": "cricket",
+    "title": "Sharad Vesawkar"
+  },
+  {
+    "id": 21,
+    "category": "celebrity",
+    "discipline": "cricket",
+    "title": "Sompal Kami"
+  },
+  {
+    "id": 22,
+    "category": "celebrity",
+    "discipline": "cricket",
+    "title": "Sandeep Lamichhane"
+  },
+  {
+    "id": 23,
+    "category": "celebrity",
+    "discipline": "cricket",
+    "title": "Lalit Rajbanshi"
+  },
+  {
+    "id": 24,
+    "category": "celebrity",
+    "discipline": "football",
+    "title": "Anil Gurung"
+  },
+  {
+    "id": 25,
+    "category": "celebrity",
+    "discipline": "football",
+    "title": "Anjan Bista"
+  },
+  {
+    "id": 26,
+    "category": "celebrity",
+    "discipline": "football",
+    "title": "Ananta Tamang"
+  },
+  {
+    "id": 27,
+    "category": "celebrity",
+    "discipline": "football",
+    "title": "Bharat Khawas"
+  },
+  {
+    "id": 28,
+    "category": "celebrity",
+    "discipline": "football",
+    "title": "Bimal Gharti Magar"
+  },
+  {
+    "id": 29,
+    "category": "celebrity",
+    "discipline": "football",
+    "title": "Bikesh Kuthu"
+  },
+  {
+    "id": 30,
+    "category": "celebrity",
+    "discipline": "football",
+    "title": "Bikram Lama"
+  },
+  {
+    "id": 31,
+    "category": "celebrity",
+    "discipline": "football",
+    "title": "Biraj Maharjan"
+  },
+  {
+    "id": 32,
+    "category": "celebrity",
+    "discipline": "football",
+    "title": "Jagjit Shrestha"
+  },
+  {
+    "id": 33,
+    "category": "celebrity",
+    "discipline": "football",
+    "title": "Ju Manu Rai"
+  },
+  {
+    "id": 34,
+    "category": "celebrity",
+    "discipline": "football",
+    "title": "Karna Limbu"
+  },
+  {
+    "id": 35,
+    "category": "celebrity",
+    "discipline": "football",
+    "title": "Nawayug Shrestha"
+  },
+  {
+    "id": 36,
+    "category": "celebrity",
+    "discipline": "football",
+    "title": "Nirajan Rayamajhi"
+  },
+  {
+    "id": 37,
+    "category": "celebrity",
+    "discipline": "football",
+    "title": "Rabin Shrestha"
+  },
+  {
+    "id": 38,
+    "category": "celebrity",
+    "discipline": "football",
+    "title": "Ranjan Bista"
+  },
+  {
+    "id": 39,
+    "category": "celebrity",
+    "discipline": "football",
+    "title": "Rohit Chand"
+  },
+  {
+    "id": 40,
+    "category": "celebrity",
+    "discipline": "football",
+    "title": "Upendra Man Singh"
+  },
+  {
+    "id": 41,
+    "category": "celebrity",
+    "discipline": "swimming",
+    "title": "Gaurika Singh"
+  },
+  {
+    "id": 42,
+    "category": "celebrity",
+    "discipline": "swimming",
+    "title": "Karishma Karki"
+  },
+  {
+    "id": 43,
+    "category": "celebrity",
+    "discipline": "swimming",
+    "title": "Sofia Shah"
+  },
+  {
+    "id": 1,
+    "category": "celebrity",
+    "discipline": "geology/anthropology",
+    "title": "Harka Gurung"
+  },
+  {
+    "id": 44,
+    "category": "celebrity",
+    "discipline": "swimming",
+    "title": "Sirish Gurung"
+  },
+  { "id": 45, "category": "celebrity", "discipline": "other", "title": "Mohan Bam" },
+  {
+    "id": 46,
+    "category": "celebrity",
+    "discipline": "other",
+    "title": "Deepak Bista"
+  },
+  {
+    "id": 47,
+    "category": "celebrity",
+    "discipline": "other",
+    "title": "Shyam Dhakal"
+  },
+  {
+    "id": 48,
+    "category": "celebrity",
+    "discipline": "other",
+    "title": "Sipora Gurung"
+  },
+  {
+    "id": 49,
+    "category": "celebrity",
+    "discipline": "other",
+    "title": "Jayaram Khadka"
+  },
+  {
+    "id": 50,
+    "category": "celebrity",
+    "discipline": "other",
+    "title": "Mandil Pradhan"
+  },
+  {
+    "id": 51,
+    "category": "celebrity",
+    "discipline": "other",
+    "title": "Manikala Rai"
+  },
+  {
+    "id": 52,
+    "category": "celebrity",
+    "discipline": "other",
+    "title": "Dachhiri Sherpa"
+  },
+  {
+    "id": 53,
+    "category": "celebrity",
+    "discipline": "other",
+    "title": "Bimala Tamang"
+  },
+  {
+    "id": 54,
+    "category": "celebrity",
+    "discipline": "other",
+    "title": "Devu Thapa"
+  },
+  { "id": 55, "category": "celebrity", "discipline": "other", "title": "Mira Rai" },
+  {
+    "id": 56,
+    "category": "celebrity",
+    "discipline": "actor",
+    "title": "Rajesh Hamal"
+  },
+  {
+    "id": 57,
+    "category": "celebrity",
+    "discipline": "actor",
+    "title": "Dayaram Dahal"
+  },
+  {
+    "id": 58,
+    "category": "celebrity",
+    "discipline": "actor",
+    "title": "Saugat Malla"
+  },
+  {
+    "id": 59,
+    "category": "celebrity",
+    "discipline": "actor",
+    "title": "Hari Bansha Acharya"
+  },
+  {
+    "id": 60,
+    "category": "celebrity",
+    "discipline": "actor",
+    "title": "Subash Gajurel"
+  },
+  {
+    "id": 61,
+    "category": "celebrity",
+    "discipline": "actor",
+    "title": "Tulsi Ghimire"
+  },
+  {
+    "id": 62,
+    "category": "celebrity",
+    "discipline": "actor",
+    "title": "Manisha Koirala"
+  },
+  {
+    "id": 63,
+    "category": "celebrity",
+    "discipline": "actor",
+    "title": "Nischal Basnet"
+  },
+  {
+    "id": 64,
+    "category": "celebrity",
+    "discipline": "actor",
+    "title": "Priyanka Karki"
+  },
+  {
+    "id": 65,
+    "category": "celebrity",
+    "discipline": "actor",
+    "title": "Rekha Thapa"
+  },
+  {
+    "id": 66,
+    "category": "celebrity",
+    "discipline": "actor",
+    "title": "Deepa Shree Niraula"
+  },
+  {
+    "id": 67,
+    "category": "celebrity",
+    "discipline": "singer",
+    "title": "Atul Gautam"
+  },
+  {
+    "id": 68,
+    "category": "celebrity",
+    "discipline": "singer",
+    "title": "Hom Nath Upadhyaya"
+  },
+  {
+    "id": 69,
+    "category": "celebrity",
+    "discipline": "singer",
+    "title": "Prabal Gurung"
+  },
+  {
+    "id": 70,
+    "category": "celebrity",
+    "discipline": "entertainer",
+    "title": "Teriya Magar"
+  },
+  {
+    "id": 71,
+    "category": "celebrity",
+    "discipline": "entertainer",
+    "title": "Santosh Shah"
+  },
+  {
+    "id": 72,
+    "category": "celebrity",
+    "discipline": "business",
+    "title": "Binod Chaudhary"
+  },
+  {
+    "id": 73,
+    "category": "celebrity",
+    "discipline": "business",
+    "title": "Karna Shakya"
+  },
+  {
+    "id": 74,
+    "category": "celebrity",
+    "discipline": "social work",
+    "title": "Pushpa Basnet"
+  },
+  {
+    "id": 75,
+    "category": "celebrity",
+    "discipline": "social work",
+    "title": "Anil Chitrakar"
+  },
+  {
+    "id": 76,
+    "category": "celebrity",
+    "discipline": "social work",
+    "title": "Sunita Danuwar"
+  },
+  {
+    "id": 77,
+    "category": "celebrity",
+    "discipline": "social work",
+    "title": "Tikendra Dal Dewan"
+  },
+  {
+    "id": 78,
+    "category": "celebrity",
+    "discipline": "social work",
+    "title": "Durga Ghimire"
+  },
+  {
+    "id": 79,
+    "category": "celebrity",
+    "discipline": "social work",
+    "title": "Jagadish Ghimire"
+  },
+  {
+    "id": 80,
+    "category": "celebrity",
+    "discipline": "education",
+    "title": "Angur Baba Joshi"
+  },
+  {
+    "id": 81,
+    "category": "celebrity",
+    "discipline": "education",
+    "title": "Daya Bir Singh Kansakar"
+  },
+  {
+    "id": 82,
+    "category": "celebrity",
+    "discipline": "social work",
+    "title": "Anuradha Koirala"
+  },
+  {
+    "id": 83,
+    "category": "celebrity",
+    "discipline": "technology",
+    "title": "Mahabir Pun"
+  },
+  {
+    "id": 84,
+    "category": "celebrity",
+    "discipline": "celebrity",
+    "title": "Indira Ranamagar"
+  },
+  {
+    "id": 85,
+    "category": "celebrity",
+    "discipline": "education",
+    "title": "Himani Shah"
+  },
+  {
+    "id": 86,
+    "category": "celebrity",
+    "discipline": "social work",
+    "title": "Tara Devi Tuladhar"
+  },
+  {
+    "id": 87,
+    "category": "celebrity",
+    "discipline": "mountain climbing",
+    "title": "Babu Chiri Sherpa"
+  },
+  {
+    "id": 88,
+    "category": "celebrity",
+    "discipline": "mountain climbing",
+    "title": "Tenzing Norgay"
+  },
+  {
+    "id": 89,
+    "category": "celebrity",
+    "discipline": "mountain climbing",
+    "title": "Jamling Tenzing Norgay"
+  },
+  {
+    "id": 90,
+    "category": "celebrity",
+    "discipline": "mountain climbing",
+    "title": "Nirmal Purja"
+  },
+  {
+    "id": 91,
+    "category": "celebrity",
+    "discipline": "mountain climbing",
+    "title": "Ang Rita"
+  },
+  {
+    "id": 92,
+    "category": "celebrity",
+    "discipline": "mountain climbing",
+    "title": "Apa Sherpa"
+  },
+  {
+    "id": 93,
+    "category": "celebrity",
+    "discipline": "mountain climbing",
+    "title": "Moni Mulepati"
+  },
+  {
+    "id": 94,
+    "category": "celebrity",
+    "discipline": "mountain climbing",
+    "title": "Nawang Sherpa"
+  },
+  {
+    "id": 95,
+    "category": "celebrity",
+    "discipline": "mountain climbing",
+    "title": "Pasang Lhamu Sherpa"
+  },
+  {
+    "id": 96,
+    "category": "celebrity",
+    "discipline": "mountain climbing",
+    "title": "Pem Dorjee Sherpa"
+  },
+  {
+    "id": 97,
+    "category": "celebrity",
+    "discipline": "mountain climbing",
+    "title": "Shambu Tamang"
+  },
+  {
+    "id": 98,
+    "category": "celebrity",
+    "discipline": "mountain climbing",
+    "title": "Hari Budha Magar"
+  },
+  {
+    "id": 99,
+    "category": "celebrity",
+    "discipline": "politics",
+    "title": "Princess Jayanti of Nepal"
+  },
+  {
+    "id": 100,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Amar Singh Thapa"
+  },
+  {
+    "id": 101,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Bhanubhakta Acharya"
+  },
+  {
+    "id": 102,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Tenzing Norgay"
+  },
+  {
+    "id": 103,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Jhamak Ghimire"
+  },
+  {
+    "id": 104,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Dipendra of Nepal"
+  },
+  {
+    "id": 105,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Man Mohan Adhikari"
+  },
+  {
+    "id": 106,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Krishna Prasad Bhattarai"
+  },
+  {
+    "id": 107,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Balkrishna Sama"
+  },
+  {
+    "id": 108,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Prithvi Narayan Shah"
+  },
+  {
+    "id": 109,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Manjushree Thapa"
+  },
+  {
+    "id": 110,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Balbhadra Kunwar"
+  },
+  {
+    "id": 111,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Bhimsen Thapa"
+  },
+  {
+    "id": 112,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Pasang Lhamu Sherpa"
+  },
+  {
+    "id": 113,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Motiram Bhatta"
+  },
+  {
+    "id": 114,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "B.P. Koirala"
+  },
+  {
+    "id": 115,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Nirmal Purja"
+  },
+  {
+    "id": 116,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Pushpa Kamal Dahal"
+  },
+  {
+    "id": 117,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Shambu Tamang"
+  },
+  {
+    "id": 118,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Birendra of Nepal"
+  },
+  {
+    "id": 119,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Gyanendra Shah"
+  },
+  {
+    "id": 120,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Baburam Bhattarai"
+  },
+  {
+    "id": 121,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "C. P. Mainali"
+  },
+  {
+    "id": 122,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Jung Bahadur Rana"
+  },
+  {
+    "id": 123,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Babu Chiri Sherpa"
+  },
+  {
+    "id": 124,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Tul Bahadur Pun"
+  },
+  {
+    "id": 125,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Ang Rita Sherpa"
+  },
+  {
+    "id": 126,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Lachhiman Gurung"
+  },
+  {
+    "id": 127,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Nikhil Upreti"
+  },
+  {
+    "id": 128,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Dichen Lachman"
+  },
+  {
+    "id": 129,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Samrat Upadhyay"
+  },
+  {
+    "id": 130,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Marich Man Singh Shrestha"
+  },
+  {
+    "id": 131,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Bhanbhagta Gurung"
+  },
+  {
+    "id": 132,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Ganesh Man Singh"
+  },
+  {
+    "id": 133,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Arjun Narasingha K.C."
+  },
+  {
+    "id": 134,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Jhala Nath Khanal"
+  },
+  {
+    "id": 135,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Mohan Bikram Singh"
+  },
+  {
+    "id": 136,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Khagendra Thapa Magar"
+  },
+  {
+    "id": 137,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Chittadhar Hridaya"
+  },
+  {
+    "id": 138,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Chandra Bahadur Dangi"
+  },
+  {
+    "id": 139,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Peter Aufschnaiter"
+  },
+  {
+    "id": 140,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Radha Krishna Mainali"
+  },
+  {
+    "id": 141,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Rana Bahadur Shah"
+  },
+  {
+    "id": 142,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Bidya Devi Bhandari"
+  },
+  {
+    "id": 143,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Girija Prasad Koirala"
+  },
+  {
+    "id": 144,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Rajendra of Nepal"
+  },
+  {
+    "id": 145,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Girvan Yuddha Bikram Shah"
+  },
+  {
+    "id": 146,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Pratap Singh Shah"
+  },
+  {
+    "id": 147,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Baburam Acharya"
+  },
+  {
+    "id": 148,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Queen Aishwarya of Nepal"
+  },
+  {
+    "id": 149,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Neer Bikram Shah"
+  },
+  {
+    "id": 150,
+    "category": "celebrity",
+    "discipline": "history",
+    "title": "Princess Shruti of Nepal"
+  }
+]

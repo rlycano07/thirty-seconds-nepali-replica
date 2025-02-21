@@ -1,0 +1,273 @@
+/* CSS Variables for Light and Dark Themes */
+:root {
+  /* Light Theme */
+  --bg-color-light: #f4f4f9;
+  --text-color-light: #333;
+  --heading-color-light: #333;
+  --button-bg-light: #f8f8f8;
+  --button-text-light: #333;
+  --button-hover-bg-light: #ddd;
+  --card-bg-light: #fff;
+  --card-border-light: #ddd;
+  --shadow-light: rgba(0, 0, 0, 0.1);
+
+  /* Dark Theme */
+  --bg-color-dark: #121212;
+  --text-color-dark: #e0e0e0;
+  --heading-color-dark: #e0e0e0;
+  --button-bg-dark: #333;
+  --button-text-dark: #e0e0e0;
+  --button-hover-bg-dark: #444;
+  --card-bg-dark: #1e1e1e;
+  --card-border-dark: #444;
+  --shadow-dark: rgba(0, 0, 0, 0.3);
+}
+
+/* Set default theme (light) */
+body {
+  font-family: Arial, sans-serif;
+  background-color: var(--bg-color-light);
+  color: var(--text-color-light);
+  line-height: 1.6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  flex-direction: column;
+}
+
+#settings {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3e%3c!--!Font Awesome Free 6.7.2 by %40fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons%2c Inc.--%3e%3cpath d='M495.9 166.6c3.2 8.7 .5 18.4-6.4 24.6l-43.3 39.4c1.1 8.3 1.7 16.8 1.7 25.4s-.6 17.1-1.7 25.4l43.3 39.4c6.9 6.2 9.6 15.9 6.4 24.6c-4.4 11.9-9.7 23.3-15.8 34.3l-4.7 8.1c-6.6 11-14 21.4-22.1 31.2c-5.9 7.2-15.7 9.6-24.5 6.8l-55.7-17.7c-13.4 10.3-28.2 18.9-44 25.4l-12.5 57.1c-2 9.1-9 16.3-18.2 17.8c-13.8 2.3-28 3.5-42.5 3.5s-28.7-1.2-42.5-3.5c-9.2-1.5-16.2-8.7-18.2-17.8l-12.5-57.1c-15.8-6.5-30.6-15.1-44-25.4L83.1 425.9c-8.8 2.8-18.6 .3-24.5-6.8c-8.1-9.8-15.5-20.2-22.1-31.2l-4.7-8.1c-6.1-11-11.4-22.4-15.8-34.3c-3.2-8.7-.5-18.4 6.4-24.6l43.3-39.4C64.6 273.1 64 264.6 64 256s.6-17.1 1.7-25.4L22.4 191.2c-6.9-6.2-9.6-15.9-6.4-24.6c4.4-11.9 9.7-23.3 15.8-34.3l4.7-8.1c6.6-11 14-21.4 22.1-31.2c5.9-7.2 15.7-9.6 24.5-6.8l55.7 17.7c13.4-10.3 28.2-18.9 44-25.4l12.5-57.1c2-9.1 9-16.3 18.2-17.8C227.3 1.2 241.5 0 256 0s28.7 1.2 42.5 3.5c9.2 1.5 16.2 8.7 18.2 17.8l12.5 57.1c15.8 6.5 30.6 15.1 44 25.4l55.7-17.7c8.8-2.8 18.6-.3 24.5 6.8c8.1 9.8 15.5 20.2 22.1 31.2l4.7 8.1c6.1 11 11.4 22.4 15.8 34.3zM256 336a80 80 0 1 0 0-160 80 80 0 1 0 0 160z'/%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-color: transparent;
+  border: none;
+  position: absolute;
+  right: 0;
+  width: 10px;
+  height: 10px;
+  top: 0;
+  margin: 10px;
+}
+
+#settings:hover {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3e%3c!--!Font Awesome Free 6.7.2 by %40fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons%2c Inc.--%3e%3cpath fill='%23858585' d='M495.9 166.6c3.2 8.7 .5 18.4-6.4 24.6l-43.3 39.4c1.1 8.3 1.7 16.8 1.7 25.4s-.6 17.1-1.7 25.4l43.3 39.4c6.9 6.2 9.6 15.9 6.4 24.6c-4.4 11.9-9.7 23.3-15.8 34.3l-4.7 8.1c-6.6 11-14 21.4-22.1 31.2c-5.9 7.2-15.7 9.6-24.5 6.8l-55.7-17.7c-13.4 10.3-28.2 18.9-44 25.4l-12.5 57.1c-2 9.1-9 16.3-18.2 17.8c-13.8 2.3-28 3.5-42.5 3.5s-28.7-1.2-42.5-3.5c-9.2-1.5-16.2-8.7-18.2-17.8l-12.5-57.1c-15.8-6.5-30.6-15.1-44-25.4L83.1 425.9c-8.8 2.8-18.6 .3-24.5-6.8c-8.1-9.8-15.5-20.2-22.1-31.2l-4.7-8.1c-6.1-11-11.4-22.4-15.8-34.3c-3.2-8.7-.5-18.4 6.4-24.6l43.3-39.4C64.6 273.1 64 264.6 64 256s.6-17.1 1.7-25.4L22.4 191.2c-6.9-6.2-9.6-15.9-6.4-24.6c4.4-11.9 9.7-23.3 15.8-34.3l4.7-8.1c6.6-11 14-21.4 22.1-31.2c5.9-7.2 15.7-9.6 24.5-6.8l55.7 17.7c13.4-10.3 28.2-18.9 44-25.4l12.5-57.1c2-9.1 9-16.3 18.2-17.8C227.3 1.2 241.5 0 256 0s28.7 1.2 42.5 3.5c9.2 1.5 16.2 8.7 18.2 17.8l12.5 57.1c15.8 6.5 30.6 15.1 44 25.4l55.7-17.7c8.8-2.8 18.6-.3 24.5 6.8c8.1 9.8 15.5 20.2 22.1 31.2l4.7 8.1c6.1 11 11.4 22.4 15.8 34.3zM256 336a80 80 0 1 0 0-160 80 80 0 1 0 0 160z'/%3e%3c/svg%3e");
+}
+
+/* Header */
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+h1 {
+  font-size: 3rem;
+  color: var(--heading-color-light);
+  font-weight: 700;
+}
+
+/* Main Section */
+main {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Game Section Styles */
+#services {
+  background-color: var(--card-bg-light);
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px var(--shadow-light);
+  max-width: 400px;
+  width: 100%;
+  position: relative;
+}
+
+#clear-history {
+  position: absolute;
+  right: 0px;
+  width: fit-content;
+  top: 30px;
+  right: 10px;
+  display: none;
+}
+
+#clear-history.show {
+  display: flex;
+}
+
+h2 {
+  font-size: 2rem;
+  text-align: center;
+  color: var(--heading-color-light);
+}
+
+p {
+  font-size: 1rem;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #666;
+}
+
+/* Buttons */
+button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  font-size: 1rem;
+  border: 1px solid var(--card-border-light);
+  border-radius: 4px;
+  background-color: var(--button-bg-light);
+  color: var(--button-text-light);
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: var(--button-hover-bg-light);
+}
+
+/* Card Number */
+#card-number {
+  font-size: 1.25rem;
+  text-align: center;
+  margin: 20px 0;
+  color: var(--text-color-light);
+}
+
+/* Game Card Styles */
+.game-card {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.card-first-side {
+  text-align: center;
+}
+
+#card-list-1 {
+  list-style-type: none;
+  padding: 0;
+}
+
+#card-list-1 li {
+  margin: 10px 0;
+  font-size: 1rem;
+  color: var(--text-color-light);
+  text-align: left;
+}
+
+/* History Section */
+#history {
+  margin-top: 20px;
+  font-size: 1rem;
+  color: #555;
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  h2 {
+    font-size: 1.75rem;
+  }
+
+  button {
+    font-size: 1rem;
+  }
+
+  #card-number {
+    font-size: 1.125rem;
+  }
+
+  .game-card {
+    flex-direction: column;
+    margin: 0px 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  button {
+    font-size: 0.875rem;
+  }
+
+  #card-number {
+    font-size: 1rem;
+  }
+}
+
+/* Dark Theme Styles */
+body.dark-mode {
+  background-color: var(--bg-color-dark);
+  color: var(--text-color-dark);
+}
+
+body.dark-mode h1 {
+  color: var(--heading-color-dark);
+}
+
+body.dark-mode #services {
+  background-color: var(--card-bg-dark);
+  box-shadow: 0 4px 8px var(--shadow-dark);
+}
+
+body.dark-mode button {
+  background-color: var(--button-bg-dark);
+  color: var(--button-text-dark);
+  border-color: var(--card-border-dark);
+}
+
+body.dark-mode button:hover {
+  background-color: var(--button-hover-bg-dark);
+}
+
+body.dark-mode #card-number {
+  color: var(--text-color-dark);
+}
+
+body.dark-mode #card-list-1 li {
+  color: var(--text-color-dark);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  overflow: hidden;
+  background: linear-gradient(45deg, #ff6b6b, #f7b7a3, #4d79ff, #6a4cfc);
+  background-size: 400% 400%;
+  animation: gradientAnimation 120s ease infinite;
+}
+
+@keyframes gradientAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+

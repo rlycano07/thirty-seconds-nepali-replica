@@ -1,0 +1,540 @@
+[
+  { "id": 1, "category": "song", "title": "Resham Firiri" },
+  { "id": 2, "category": "song", "title": "Sambodhan" },
+  { "id": 3, "category": "song", "title": "Parelima" },
+  { "id": 4, "category": "song", "title": "Chitthi Bhitra" },
+  { "id": 5, "category": "song", "title": "Yo Mann Ta Mero Nepali" },
+  { "id": 6, "category": "song", "title": "Phoolko Aankhama" },
+  { "id": 7, "category": "song", "title": "Maya Meri Maya" },
+  { "id": 8, "category": "song", "title": "Timro Mero Sambodhan" },
+  { "id": 9, "category": "song", "title": "Hamro Nepal" },
+  { "id": 10, "category": "song", "title": "Hami Yestai Ta Ho Ni Bro" },
+  { "id": 11, "category": "song", "title": "Ke Garne" },
+  { "id": 12, "category": "song", "title": "Mero Jivan" },
+  { "id": 13, "category": "song", "title": "Samjhi Baschu" },
+  { "id": 14, "category": "song", "title": "Birsana Chahanchu" },
+  { "id": 15, "category": "song", "title": "Maya Ko Barsha" },
+  { "id": 16, "category": "song", "title": "Jati Maya Laye Pani" },
+  { "id": 17, "category": "song", "title": "Timi Nai Ho" },
+  { "id": 18, "category": "song", "title": "Raat Bhari" },
+  {
+    "id": 19,
+    "category": "music",
+    "artist": "Sparsha Sangeet",
+    "title": "Purna Rai"
+  },
+  {
+    "id": 20,
+    "category": "music",
+    "artist": "Ekdev Limbu",
+    "title": "Jhim Jhimaune Aankha"
+  },
+  {
+    "id": 21,
+    "category": "music",
+    "artist": "Yabesh Thapa",
+    "title": "Kasari"
+  },
+  { "id": 22, "category": "music", "artist": "Swar", "title": "Badal Sari" },
+  {
+    "id": 23,
+    "category": "music",
+    "artist": "Wangden Sherpa",
+    "title": "Tadha Tadha"
+  },
+  {
+    "id": 24,
+    "category": "music",
+    "artist": "Trishna Gurung",
+    "title": "Naam K Ho"
+  },
+  {
+    "id": 25,
+    "category": "music",
+    "artist": "Purna Rai",
+    "title": "Paribhasa"
+  },
+  {
+    "id": 26,
+    "category": "music",
+    "artist": "Sujan Chapagain",
+    "title": "Eklai Bhayeni - Mero Adhuro Prem"
+  },
+  {
+    "id": 27,
+    "category": "music",
+    "artist": "Wangden Sherpa",
+    "title": "Tadha Tadha"
+  },
+  {
+    "id": 28,
+    "category": "music",
+    "artist": "Yabesh Thapa",
+    "title": "Changa"
+  },
+  {
+    "id": 29,
+    "category": "music",
+    "artist": "Sujan Chapagain",
+    "title": "Phool Oonko Sweater"
+  },
+  {
+    "id": 30,
+    "category": "music",
+    "artist": "Samikshya Adhikari",
+    "title": "Bujina Maile (From 'Boksi Ko Ghar')"
+  },
+  { "id": 31, "category": "music", "artist": "Rockheads", "title": "Bhawana" },
+  {
+    "id": 32,
+    "category": "music",
+    "artist": "Purna Rai",
+    "title": "Mann cha?"
+  },
+  {
+    "id": 33,
+    "category": "music",
+    "artist": "Apurva Tamang",
+    "title": "Aru Juni"
+  },
+  {
+    "id": 34,
+    "category": "music",
+    "artist": "ShreeGo",
+    "title": "Malai Tei Keti Chahiyo"
+  },
+  {
+    "id": 35,
+    "category": "music",
+    "artist": "Kali Prasad Baskota",
+    "title": "Chhadke Salam (From 'Behuli From Meghauli')"
+  },
+  { "id": 36, "category": "music", "artist": "Rockheads", "title": "Dhun" },
+  {
+    "id": 37,
+    "category": "music",
+    "artist": "Mahesh Kafle",
+    "title": "China Japan"
+  },
+  {
+    "id": 38,
+    "category": "music",
+    "artist": "Yabesh Thapa",
+    "title": "Ekkasi"
+  },
+  { "id": 39, "category": "music", "artist": "Swar", "title": "udirahechan" },
+  {
+    "id": 40,
+    "category": "music",
+    "artist": "Samir Shrestha",
+    "title": "Timi Nabhai Nahuney (Raw Demo)"
+  },
+  {
+    "id": 41,
+    "category": "music",
+    "artist": "Sabin Rai",
+    "title": "Malai Angali Deu"
+  },
+  {
+    "id": 42,
+    "category": "music",
+    "artist": "Ekdev Limbu",
+    "title": "Boli Deu"
+  },
+  {
+    "id": 43,
+    "category": "music",
+    "artist": "Sabin Rai",
+    "title": "Jau Ki Basu"
+  },
+  {
+    "id": 44,
+    "category": "music",
+    "artist": "Anmol Gurung",
+    "title": "KUNAI DIN"
+  },
+  {
+    "id": 45,
+    "category": "music",
+    "artist": "Apurva Tamang",
+    "title": "Praapti"
+  },
+  {
+    "id": 46,
+    "category": "music",
+    "artist": "Samir Shrestha",
+    "title": "Anaavashyak"
+  },
+  {
+    "id": 47,
+    "category": "music",
+    "artist": "Samir Shrestha",
+    "title": "Manaka Kura"
+  },
+  { "id": 48, "category": "music", "artist": "Purna Rai", "title": "Baadal" },
+  {
+    "id": 49,
+    "category": "music",
+    "artist": "Samir Shrestha",
+    "title": "Jhilimili (Dilaima)"
+  },
+  {
+    "id": 50,
+    "category": "music",
+    "artist": "Apurva Tamang",
+    "title": "Shuddatah"
+  },
+  {
+    "id": 51,
+    "category": "music",
+    "artist": "Anmol Gurung",
+    "title": "Mailay Fakayera Matra (From 'Khajure Bro')"
+  },
+  {
+    "id": 52,
+    "category": "music",
+    "artist": "Swoopna Suman",
+    "title": "Niyaali Hera"
+  },
+  {
+    "id": 53,
+    "category": "music",
+    "artist": "Karan Bhatta",
+    "title": "Shirshak"
+  },
+  {
+    "id": 54,
+    "category": "music",
+    "artist": "Urgen Dong",
+    "title": "Tamang Dai"
+  },
+  {
+    "id": 55,
+    "category": "music",
+    "artist": "Ram Chandra Kafle",
+    "title": "Beniko Bajara"
+  },
+  {
+    "id": 56,
+    "category": "music",
+    "artist": "Ram Chandra Kafle",
+    "title": "Himchulima Gham Lagyo"
+  },
+  { "id": 57, "category": "music", "artist": "GOli", "title": "Panche Baja" },
+  {
+    "id": 58,
+    "category": "music",
+    "artist": "Wangden Sherpa",
+    "title": "Ali Ali"
+  },
+  {
+    "id": 59,
+    "category": "music",
+    "artist": "Sabin Rai",
+    "title": "Dui Thunga"
+  },
+  {
+    "id": 60,
+    "category": "music",
+    "artist": "Mahesh Kafle",
+    "title": "China Japan"
+  },
+  {
+    "id": 61,
+    "category": "music",
+    "artist": "Ekdev Limbu",
+    "title": "Boli Deu"
+  },
+  {
+    "id": 62,
+    "category": "music",
+    "artist": "Sabin Rai",
+    "title": "Timi Nai Hau"
+  },
+  {
+    "id": 63,
+    "category": "music",
+    "artist": "Anmol Gurung",
+    "title": "AAJA BHOLI"
+  },
+  {
+    "id": 64,
+    "category": "music",
+    "artist": "Sabin Rai",
+    "title": "Ma Sansar Jitne"
+  },
+  {
+    "id": 65,
+    "category": "music",
+    "artist": "Oasis Thapa",
+    "title": "Antim Bidaai"
+  },
+  { "id": 66, "category": "music", "artist": "Vek", "title": "Maya Basla Hai" },
+  { "id": 67, "category": "music", "artist": "ShreeGo", "title": "Mayalu" },
+  {
+    "id": 68,
+    "category": "music",
+    "artist": "Sabin Rai",
+    "title": "Jaba Timi Aayeu"
+  },
+  {
+    "id": 69,
+    "category": "music",
+    "artist": "Sushant Ghimire",
+    "title": "Bujhau Malai"
+  },
+  {
+    "id": 70,
+    "category": "music",
+    "artist": "Chhewang Lama",
+    "title": "Timrai Maya Ma"
+  },
+  { "id": 71, "category": "music", "artist": "Raju Lama", "title": "Sumnima" },
+  {
+    "id": 72,
+    "category": "music",
+    "artist": "The Dreamcatchers Official",
+    "title": "Bhawana"
+  },
+  {
+    "id": 73,
+    "category": "music",
+    "artist": "Prakash Saput",
+    "title": "Mutu Katakkai"
+  },
+  { "id": 74, "category": "music", "artist": "ShreeGo", "title": "Duri" },
+  {
+    "id": 75,
+    "category": "music",
+    "artist": "Akash Khadka",
+    "title": "Timrai Lagi"
+  },
+  {
+    "id": 76,
+    "category": "music",
+    "artist": "Ekdev Limbu",
+    "title": "Soltini"
+  },
+  {
+    "id": 77,
+    "category": "music",
+    "artist": "Kali Prasad Baskota",
+    "title": "Teete Paate (From 'Damaru Ko Dandibiyo')"
+  },
+  { "id": 78, "category": "music", "artist": "Naren Limbu", "title": "Aatma" },
+  {
+    "id": 79,
+    "category": "music",
+    "artist": "Prashant ezekiel rai",
+    "title": "MAKHAMALI"
+  },
+  { "id": 80, "category": "music", "artist": "Purna Rai", "title": "Swarga" },
+  { "id": 81, "category": "music", "artist": "Urgen Dong", "title": "Jhuma" },
+  {
+    "id": 82,
+    "category": "music",
+    "artist": "Shashwot Khadka",
+    "title": "Dhadkana"
+  },
+  {
+    "id": 83,
+    "category": "music",
+    "artist": "Anmol Gurung",
+    "title": "Mero Samjhana Haru - Acoustic Version AGMF"
+  },
+  {
+    "id": 84,
+    "category": "music",
+    "artist": "Chhewang Lama",
+    "title": "Timrai Nimti"
+  },
+  {
+    "id": 85,
+    "category": "music",
+    "artist": "Melina Rai",
+    "title": "Timle Bato Fereu Are"
+  },
+  {
+    "id": 86,
+    "category": "music",
+    "artist": "Pramod Kharel",
+    "title": "Parkhi Base Timilai Title Song (From Parkhi Base Timilai)"
+  },
+  {
+    "id": 87,
+    "category": "music",
+    "artist": "Sabin Rai",
+    "title": "Timro Lagi Ma"
+  },
+  {
+    "id": 88,
+    "category": "music",
+    "artist": "Sabin Rai",
+    "title": "Kahan Dekhi Kahan Samma"
+  },
+  {
+    "id": 89,
+    "category": "music",
+    "artist": "The Dreamcatchers Official",
+    "title": "Bhawana - Sped up"
+  },
+  {
+    "id": 90,
+    "category": "music",
+    "artist": "Urgen Dong",
+    "title": "Tyo belani"
+  },
+  {
+    "id": 91,
+    "category": "music",
+    "artist": "Prakash Saput",
+    "title": "Darshan Gare (From 'Pujar Sarki')"
+  },
+  {
+    "id": 92,
+    "category": "music",
+    "artist": "Kali Prasad Baskota",
+    "title": "Sathi (From 'Mahajatra')"
+  },
+  {
+    "id": 93,
+    "category": "music",
+    "artist": "Prabesh Kumar Shrestha",
+    "title": "Timi Sangai"
+  },
+  {
+    "id": 94,
+    "category": "music",
+    "artist": "The Dreamcatchers Official",
+    "title": "Timilai herney"
+  },
+  {
+    "id": 95,
+    "category": "music",
+    "artist": "Apurva Tamang",
+    "title": "Chahana"
+  },
+  {
+    "id": 96,
+    "category": "music",
+    "artist": "Ram Chandra Kafle",
+    "title": "Ekai Darjan Chura Dhago"
+  },
+  { "id": 97, "category": "music", "artist": "Ashutosh KC", "title": "Maafi" },
+  {
+    "id": 98,
+    "category": "music",
+    "artist": "Anmol Gurung",
+    "title": "Mailay Fakayera Matra (From 'Khajure Bro')"
+  },
+  {
+    "id": 99,
+    "category": "music",
+    "artist": "Ashutosh KC",
+    "title": "Naugedi (Acoustic)"
+  },
+  {
+    "id": 100,
+    "category": "music",
+    "artist": "The Dreamcatchers Official",
+    "title": "Bahana"
+  },
+  {
+    "id": 101,
+    "category": "music",
+    "artist": "Ashutosh KC",
+    "title": "Maya (Acoustic)"
+  },
+  {
+    "id": 102,
+    "category": "music",
+    "artist": "Almoda Rana Uprety",
+    "title": "A Kanxi"
+  },
+  {
+    "id": 103,
+    "category": "music",
+    "artist": "Anmol Gurung",
+    "title": "Love Garna Manchhe (Form 'Kajure Bro')"
+  },
+  {
+    "id": 104,
+    "category": "music",
+    "artist": "AXIX",
+    "title": "Paaila - Remastered"
+  },
+  { "id": 105, "category": "music", "artist": "Purna Rai", "title": "Swarga" },
+  {
+    "id": 106,
+    "category": "music",
+    "artist": "Sabin Rai",
+    "title": "Run On Gun (From 'Lappan Chhappan')"
+  },
+  {
+    "id": 107,
+    "category": "music",
+    "artist": "Kamal Khatri",
+    "title": "Shiva Bhajan"
+  },
+  {
+    "id": 108,
+    "category": "music",
+    "artist": "Kamal Khatri",
+    "title": "Maya Lai Lai 2"
+  },
+  {
+    "id": 109,
+    "category": "music",
+    "artist": "Ashutosh KC",
+    "title": "Kurirahe Ma (Acoustic)"
+  },
+  {
+    "id": 110,
+    "category": "music",
+    "artist": "satish",
+    "title": "Manjari (Live Sessions)"
+  },
+  {
+    "id": 111,
+    "category": "music",
+    "artist": "Ashutosh KC",
+    "title": "Maafi (Acoustic)"
+  },
+  {
+    "id": 112,
+    "category": "music",
+    "artist": "Karan Bhatta",
+    "title": "Andhakar"
+  },
+  {
+    "id": 113,
+    "category": "music",
+    "artist": "Melina Rai",
+    "title": "Timro Maya"
+  },
+  {
+    "id": 114,
+    "category": "music",
+    "artist": "SD Yogi",
+    "title": "Binjuri (From' Gharjwai')"
+  },
+  {
+    "id": 115,
+    "category": "music",
+    "artist": "Ashutosh KC",
+    "title": "Mero Desh (Acoustic)"
+  },
+  {
+    "id": 116,
+    "category": "music",
+    "artist": "Oshin Karki",
+    "title": "Nibedan"
+  },
+  { "id": 117, "category": "music", "artist": "Mc Flo", "title": "Ful Dina" },
+  {
+    "id": 118,
+    "category": "music",
+    "artist": "Shanti Shree Pariyar",
+    "title": "Chhadke Hanera"
+  }
+]
