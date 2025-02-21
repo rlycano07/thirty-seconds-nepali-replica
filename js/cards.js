@@ -63,6 +63,8 @@ $(function () {
     $('#history').html('<h3>Selected History</h3><ul>' + historyList + '</ul>');
   }
 
+  let count = 1;
+
   // Event listener for the "show-next" button
   $("#show-next").on('click', function () {
     var files = ["./data/celebrity.json", "./data/food.json", "./data/movie.json", "./data/place.json", "./data/song.json"];
@@ -94,6 +96,8 @@ $(function () {
             return generateItemsHTML(item);
           }).join('');
           $('#card-list-1').html(output);
+          $('#card-number').html(remainingItems.length);
+          // $('#card-number').html(count++);
 
           // Display the updated history
           // displayHistory();

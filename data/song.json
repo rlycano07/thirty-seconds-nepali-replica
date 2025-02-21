@@ -536,5 +536,415 @@
     "category": "music",
     "artist": "Shanti Shree Pariyar",
     "title": "Chhadke Hanera"
+  },
+  {
+    "id": 119,
+    "category": "music",
+    "artist": "The Beatles",
+    "title": "Hey Jude",
+    "famous_songs": [
+      "Hey Jude",
+      "Let It Be",
+      "Come Together",
+      "Yesterday",
+      "Something"
+    ]
+  },
+  {
+    "id": 120,
+    "category": "music",
+    "artist": "Michael Jackson",
+    "title": "Billie Jean",
+    "famous_songs": [
+      "Billie Jean",
+      "Thriller",
+      "Beat It",
+      "Smooth Criminal",
+      "Black or White"
+    ]
+  },
+  {
+    "id": 121,
+    "category": "music",
+    "artist": "Adele",
+    "title": "Someone Like You",
+    "famous_songs": [
+      "Someone Like You",
+      "Rolling in the Deep",
+      "Hello",
+      "Set Fire to the Rain",
+      "When We Were Young"
+    ]
+  },
+  {
+    "id": 122,
+    "category": "music",
+    "artist": "Elton John",
+    "title": "Your Song",
+    "famous_songs": [
+      "Your Song",
+      "Rocket Man",
+      "Tiny Dancer",
+      "Bennie and the Jets",
+      "Goodbye Yellow Brick Road"
+    ]
+  },
+  {
+    "id": 123,
+    "category": "music",
+    "artist": "Beyoncé",
+    "title": "Halo",
+    "famous_songs": [
+      "Halo",
+      "Single Ladies",
+      "Crazy in Love",
+      "Run the World",
+      "Irreplaceable"
+    ]
+  },
+  {
+    "id": 124,
+    "category": "music",
+    "artist": "Taylor Swift",
+    "title": "Love Story",
+    "famous_songs": [
+      "Love Story",
+      "Shake It Off",
+      "You Belong with Me",
+      "Blank Space",
+      "All Too Well"
+    ]
+  },
+  {
+    "id": 125,
+    "category": "music",
+    "artist": "Ed Sheeran",
+    "title": "Shape of You",
+    "famous_songs": [
+      "Shape of You",
+      "Perfect",
+      "Thinking Out Loud",
+      "Castle on the Hill",
+      "Galway Girl"
+    ]
+  },
+  {
+    "id": 126,
+    "category": "music",
+    "artist": "Billie Eilish",
+    "title": "Bad Guy",
+    "famous_songs": [
+      "Bad Guy",
+      "Everything I Wanted",
+      "When the Party's Over",
+      "Bury a Friend",
+      "No Time to Die"
+    ]
+  },
+  {
+    "id": 127,
+    "category": "music",
+    "artist": "Coldplay",
+    "title": "Viva La Vida",
+    "famous_songs": [
+      "Viva La Vida",
+      "Yellow",
+      "The Scientist",
+      "Fix You",
+      "Clocks"
+    ]
+  },
+  {
+    "id": 128,
+    "category": "music",
+    "artist": "Drake",
+    "title": "Hotline Bling",
+    "famous_songs": [
+      "Hotline Bling",
+      "God's Plan",
+      "In My Feelings",
+      "Started from the Bottom",
+      "One Dance"
+    ]
+  },
+  {
+    "id": 129,
+    "category": "music",
+    "artist": "Kendrick Lamar",
+    "title": "HUMBLE.",
+    "famous_songs": [
+      "HUMBLE.",
+      "Alright",
+      "DNA.",
+      "King Kunta",
+      "Bitch, Don't Kill My Vibe"
+    ]
+  },
+  {
+    "id": 130,
+    "category": "music",
+    "artist": "Lady Gaga",
+    "title": "Poker Face",
+    "famous_songs": [
+      "Poker Face",
+      "Bad Romance",
+      "Just Dance",
+      "Shallow",
+      "Million Reasons"
+    ]
+  },
+  {
+    "id": 131,
+    "category": "music",
+    "artist": "The Weeknd",
+    "title": "Blinding Lights",
+    "famous_songs": [
+      "Blinding Lights",
+      "Can't Feel My Face",
+      "Starboy",
+      "Save Your Tears",
+      "The Hills"
+    ]
+  },
+  {
+    "id": 132,
+    "category": "music",
+    "artist": "Rihanna",
+    "title": "Umbrella",
+    "famous_songs": [
+      "Umbrella",
+      "Diamonds",
+      "We Found Love",
+      "Work",
+      "Only Girl (In the World)"
+    ]
+  },
+  {
+    "id": 133,
+    "category": "music",
+    "artist": "Kanye West",
+    "title": "Stronger",
+    "famous_songs": [
+      "Stronger",
+      "Gold Digger",
+      "Heartless",
+      "Bound 2",
+      "Flashing Lights"
+    ]
+  },
+  {
+    "id": 134,
+    "category": "music",
+    "artist": "Nirvana",
+    "title": "Smells Like Teen Spirit",
+    "famous_songs": [
+      "Smells Like Teen Spirit",
+      "Come as You Are",
+      "Heart-Shaped Box",
+      "Lithium",
+      "In Bloom"
+    ]
+  },
+  {
+    "id": 135,
+    "category": "music",
+    "artist": "Shakira",
+    "title": "Hips Don't Lie",
+    "famous_songs": [
+      "Hips Don't Lie",
+      "Waka Waka (This Time for Africa)",
+      "Whenever, Wherever",
+      "La Tortura",
+      "Chantaje"
+    ]
+  },
+  {
+    "id": 136,
+    "category": "music",
+    "artist": "Justin Bieber",
+    "title": "Sorry",
+    "famous_songs": [
+      "Sorry",
+      "Baby",
+      "What Do You Mean?",
+      "Love Yourself",
+      "Where Are Ü Now"
+    ]
+  },
+  {
+    "id": 137,
+    "category": "music",
+    "artist": "Maroon 5",
+    "title": "Sugar",
+    "famous_songs": [
+      "Sugar",
+      "Moves Like Jagger",
+      "This Love",
+      "She Will Be Loved",
+      "Animals"
+    ]
+  },
+  {
+    "id": 138,
+    "category": "music",
+    "artist": "Pink Floyd",
+    "title": "Comfortably Numb",
+    "famous_songs": [
+      "Comfortably Numb",
+      "Another Brick in the Wall",
+      "Wish You Were Here",
+      "Shine On You Crazy Diamond",
+      "Time"
+    ]
+  },
+  {
+    "id": 139,
+    "category": "music",
+    "artist": "Queen",
+    "title": "Bohemian Rhapsody",
+    "famous_songs": [
+      "Bohemian Rhapsody",
+      "We Will Rock You",
+      "We Are the Champions",
+      "Somebody to Love",
+      "Don't Stop Me Now"
+    ]
+  },
+  {
+    "id": 140,
+    "category": "music",
+    "artist": "Katy Perry",
+    "title": "Firework",
+    "famous_songs": [
+      "Firework",
+      "Roar",
+      "Teenage Dream",
+      "I Kissed a Girl",
+      "Dark Horse"
+    ]
+  },
+  {
+    "id": 141,
+    "category": "music",
+    "artist": "Post Malone",
+    "title": "Circles",
+    "famous_songs": ["Circles", "Rockstar", "Sunflower", "Wow.", "Better Now"]
+  },
+  {
+    "id": 142,
+    "category": "music",
+    "artist": "Marvin Gaye",
+    "title": "What's Going On",
+    "famous_songs": [
+      "What's Going On",
+      "Sexual Healing",
+      "Let's Get It On",
+      "Heard It Through the Grapevine",
+      "Ain't No Mountain High Enough"
+    ]
+  },
+  {
+    "id": 143,
+    "category": "music",
+    "artist": "Frank Sinatra",
+    "title": "My Way",
+    "famous_songs": [
+      "My Way",
+      "New York, New York",
+      "Fly Me to the Moon",
+      "Strangers in the Night",
+      "I've Got You Under My Skin"
+    ]
+  },
+  {
+    "id": 144,
+    "category": "music",
+    "artist": "Bruce Springsteen",
+    "title": "Born to Run",
+    "famous_songs": [
+      "Born to Run",
+      "Dancing in the Dark",
+      "The Rising",
+      "Thunder Road",
+      "Born in the U.S.A."
+    ]
+  },
+  {
+    "id": 145,
+    "category": "music",
+    "artist": "The Rolling Stones",
+    "title": "Paint It Black",
+    "famous_songs": [
+      "Paint It Black",
+      "Angie",
+      "Satisfaction",
+      "Start Me Up",
+      "Brown Sugar"
+    ]
+  },
+  {
+    "id": 146,
+    "category": "music",
+    "artist": "Sia",
+    "title": "Chandelier",
+    "famous_songs": [
+      "Chandelier",
+      "Elastic Heart",
+      "Cheap Thrills",
+      "Titanium",
+      "The Greatest"
+    ]
+  },
+  {
+    "id": 147,
+    "category": "music",
+    "artist": "Imagine Dragons",
+    "title": "Radioactive",
+    "famous_songs": [
+      "Radioactive",
+      "Demons",
+      "Believer",
+      "Thunder",
+      "Whatever It Takes"
+    ]
+  },
+  {
+    "id": 148,
+    "category": "music",
+    "artist": "Lizzo",
+    "title": "Truth Hurts",
+    "famous_songs": [
+      "Truth Hurts",
+      "Good as Hell",
+      "Juice",
+      "Cuz I Love You",
+      "Tempo"
+    ]
+  },
+  {
+    "id": 149,
+    "category": "music",
+    "artist": "Sam Smith",
+    "title": "Stay With Me",
+    "famous_songs": [
+      "Stay With Me",
+      "I'm Not the Only One",
+      "Too Good at Goodbyes",
+      "Promises",
+      "La La La"
+    ]
+  },
+  {
+    "id": 150,
+    "category": "music",
+    "artist": "Lana Del Rey",
+    "title": "Summertime Sadness",
+    "famous_songs": [
+      "Summertime Sadness",
+      "Video Games",
+      "Born to Die",
+      "Young and Beautiful",
+      "Blue Jeans"
+    ]
   }
 ]

@@ -124,5 +124,168 @@
   { "id": 119, "category": "place", "title": "Ghandruk" },
   { "id": 120, "category": "place", "title": "Dhampus" },
   { "id": 121, "category": "place", "title": "Nuwakot" },
-  { "id": 122, "category": "place", "title": "Halesi Mahadev Temple" }
+  { "id": 122, "category": "place", "title": "Halesi Mahadev Temple" },
+  {
+    "id": 123,
+    "category": "place",
+    "title": "Eiffel Tower",
+    "international": true
+  },
+  {
+    "id": 124,
+    "category": "place",
+    "title": "Great Wall of China",
+    "international": true
+  },
+  {
+    "id": 125,
+    "category": "place",
+    "title": "Taj Mahal",
+    "international": true
+  },
+  {
+    "id": 126,
+    "category": "place",
+    "title": "Machu Picchu",
+    "international": true
+  },
+  {
+    "id": 127,
+    "category": "place",
+    "title": "Colosseum",
+    "international": true
+  },
+  {
+    "id": 128,
+    "category": "place",
+    "title": "Statue of Liberty",
+    "international": true
+  },
+  {
+    "id": 129,
+    "category": "place",
+    "title": "Christ the Redeemer",
+    "international": true
+  },
+  {
+    "id": 130,
+    "category": "place",
+    "title": "Stonehenge",
+    "international": true
+  },
+  {
+    "id": 131,
+    "category": "place",
+    "title": "Pyramids of Giza",
+    "international": true
+  },
+  {
+    "id": 132,
+    "category": "place",
+    "title": "Sydney Opera House",
+    "international": true
+  },
+  {
+    "id": 133,
+    "category": "place",
+    "title": "Santorini",
+    "international": true
+  },
+  {
+    "id": 134,
+    "category": "place",
+    "title": "Grand Canyon",
+    "international": false
+  },
+  {
+    "id": 135,
+    "category": "place",
+    "title": "Mount Everest",
+    "international": true
+  },
+  {
+    "id": 136,
+    "category": "place",
+    "title": "Angkor Wat",
+    "international": true
+  },
+  { "id": 137, "category": "place", "title": "Big Ben", "international": true },
+  {
+    "id": 138,
+    "category": "place",
+    "title": "Notre-Dame Cathedral",
+    "international": true
+  },
+  {
+    "id": 139,
+    "category": "place",
+    "title": "Neuschwanstein Castle",
+    "international": true
+  },
+  {
+    "id": 140,
+    "category": "place",
+    "title": "Burj Khalifa",
+    "international": true
+  },
+  {
+    "id": 141,
+    "category": "place",
+    "title": "Acropolis of Athens",
+    "international": true
+  },
+  {
+    "id": 142,
+    "category": "place",
+    "title": "Forbidden City",
+    "international": true
+  },
+  {
+    "id": 143,
+    "category": "place",
+    "title": "Alhambra",
+    "international": true
+  },
+  {
+    "id": 144,
+    "category": "place",
+    "title": "Sagrada Familia",
+    "international": true
+  },
+  {
+    "id": 145,
+    "category": "place",
+    "title": "Chichen Itza",
+    "international": true
+  },
+  {
+    "id": 146,
+    "category": "place",
+    "title": "Palace of Versailles",
+    "international": true
+  },
+  {
+    "id": 147,
+    "category": "place",
+    "title": "Mount Kilimanjaro",
+    "international": true
+  },
+  {
+    "id": 148,
+    "category": "place",
+    "title": "The Louvre",
+    "international": true
+  },
+  {
+    "id": 149,
+    "category": "place",
+    "title": "The Great Barrier Reef",
+    "international": true
+  },
+  {
+    "id": 150,
+    "category": "place",
+    "title": "Yellowstone National Park",
+    "international": false
+  }
 ]
